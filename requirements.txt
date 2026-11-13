@@ -1,0 +1,11 @@
+matplotlib.pyplot
+jupyter
+cartopy.io.shapereader
+glob
+numpy
+pandas
+xarray
+geopandas
+cartopy.feature
+matplotlib.patches
+chirps datasets
