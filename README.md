@@ -9,4 +9,4 @@ This repository analyses geopotential height at 500hPa and 850hPa pressure level
 - `requirements.txt`:Python package dependencies.
 - `README.md`: Project documentation.
 
-##Key Findings
+## *Key Findings*
